@@ -10,7 +10,7 @@ laterYears = laterYears*4;
 
 let myAgeInDogYears = earlyYears+laterYears ;
 
-const name = 'BHARATH';
+const name = 'MEGHANA';
 
 let myname = name.toLowerCase();
 
